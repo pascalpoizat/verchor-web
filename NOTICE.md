@@ -1,6 +1,6 @@
 # License information
 
-These Web pages are licensed under the terms described in the [LICENSE.md](LICENSE.md) file.
+These Web pages are licensed under the terms described in the [LICENSE](LICENSE) file.
 These pages are built on top of:
 
 - [Bootstrap](http://getbootstrap.com/), version 3.0.3, licensed under Apache Licence 2.0
