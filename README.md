@@ -1,20 +1,6 @@
-VerChor Web Pages
-=================
+# VerChor - verification of choreographies
 
-Web pages for the [VerChor tool](http://pagesperso-systeme.lip6.fr/Pascal.Poizat/VerChor/).
+Matthias Güdemann, Pascal Poizat, Gwen Salaün, and Lina Ye. **VerChor: A Framework for the Design and Verification of Choreographies**. *IEEE Transactions on Services Computing*, 9(4) :647–660, 2016.
+[[DOI](http://doi.org/10.1109/TSC.2015.2413401)] [[HAL Open Archive](https://hal.inria.fr/hal-01198918)]
 
-Contributors
-============
-
-- Pascal Poizat, Université Paris Ouest and LIP6, CNRS - Université Pierre et Marie Curie
-- Lina Ye
-
-Dependencies
-============
-
-These pages are built on top of:
-- [Bootstrap](http://getbootstrap.com/), version 3.0.3, licenced under Apache Licence 2.0
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/), version 4.1.0, licenced under SIL OFL 1.1 (desktop and webfont files) and MIT Licence (css and less files)
-- [Glyph Icons Halflings](http://glyphicons.com/), released under the same licence as Bootstrap
-
-
+-> [VerChor Web page](http://pagesperso-systeme.lip6.fr/Pascal.Poizat/VerChor/).
